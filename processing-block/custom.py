@@ -1,5 +1,3 @@
-# custom.py
-
 import numpy as np
 
 def custom_processing(input_data, params, **kwargs):
