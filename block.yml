@@ -1,6 +1,0 @@
-# block.yml
-
-name: custom-threshold-block
-version: 1.0.0
-processing-block:
-  script: processing-block/custom.py

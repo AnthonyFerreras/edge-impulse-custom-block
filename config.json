@@ -1,0 +1,15 @@
+{
+    "name": "Adjust MPU6050 Sensitivity",
+    "version": "1.0",
+    "description": "Custom block to adjust the sensitivity of MPU6050 sensor data.",
+    "inputs": [{"type": "xyz"}],
+    "outputs": [{"type": "features"}],
+    "parameters": [
+        {
+            "name": "sensitivity",
+            "type": "number",
+            "default": 1,
+            "description": "Adjust the sensitivity scale factor"
+        }
+    ]
+}

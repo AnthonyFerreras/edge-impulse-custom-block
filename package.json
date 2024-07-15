@@ -1,0 +1,12 @@
+{
+    "name": "adjust-mpu6050-sensitivity",
+    "version": "1.0.0",
+    "description": "A custom block for adjusting the sensitivity of MPU6050 sensor data",
+    "main": "block.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
